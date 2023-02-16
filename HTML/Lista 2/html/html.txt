@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lixo Eletrônico</title>
+    <link rel="Icon" href="lixo.jpg">
+    <style>
+        h1 {text-align: center;}
+        section {text-align: center;}
+        
+        body {
+            background-color: rgba(190, 181, 172, 0.808);
+        }
+    </style>
+</head>
+<body>
+    <h1>LIXO ELETRÔNICO</h1>
+    <hr>
+    <br>
+    <p style="font-family:Georgia"><b>O que é lixo eletrônico?</b></p>
+    <p style="font-family: Georgia">O lixo eletrônico ou Resíduos de Equipamentos Elétricos e Eletrônicos (REEE) são todos os dispositivos eletroeletrônicos, de celulares, tablets e computadores a TVs, lavadoras de louça e de roupa, geladeiras e etc., que foram descartados por seus donos.</p>
+    <div style="text-align: center;">
+        <img src="lixo eletronic.png" alt="eletronico" width="200" height="200">
+    </div>
+    <br>
+    <p style="font-family: Georgia"><b>Qual problema o lixo eletrônico causa?</b></p>
+    <p style="font-family: Georgia">Estes resíduos, por serem feitos com alta tecnologia, podem conter substâncias tóxicas e metais pesados (chumbo, mercúrio, cromo e cádmio), capazes de contaminar em altos níveis o solo, a água e os alimentos que consumimos- impactando tanto o ambiente, quanto a saúde humana.</p>
+    <br>
+    <p style="font-family: Georgia"><b>É possível reciclar lixo eletrônico?</b></p>
+    <p style="font-family: Georgia">A reciclagem de lixo eletrônico é um processo altamente viável para evitar que esses artigos gerem danos ao meio ambiente e ao solo depois de um descarte irregular em qualquer que seja o local.</p>
+    <br>
+    <p style="font-family: Georgia"><b>Como é o lixo eletrônico no Brasil?</b></p>
+    <p style="font-family: Georgia">O Brasil caminha para ampliar o descarte adequado e o reaproveitamento do lixo a partir do Sistema de
+        Logística Reversa, criado pelo Governo Federal em 2020. A reciclagem de eletroeletrônicos, por exemplo,
+        vem crescendo ano a ano a partir da inauguração de pontos de coleta desses materiais em 11 capitais
+        brasileiras.</p>
+    <br>
+    <hr>
+    <p style="font-family: Georgia"><b>Como reduzir o lixo eletrônico?</b></p>
+    <ul type="square">
+        <li>Procure locais de descarte;</li>
+        <li>Repasse para outros;</li>
+        <li>Devolva ao fabricante;</li>
+        <li>Venda o aparelho;</li>
+        <li>Compre outro.</li>
+    </ul>
+    <p style="font-family: Georgia"><b>Concientização do descarte:</b></p>
+    <ul type="square">
+        <li>Cartazes;</li>
+        <li>Banners;</li>
+        <li>Redes sociais;</li>
+        <li>ONGs;</li>
+        <li>Separar lixos em casa.</li>
+    </ul>
+    <br>
+    <hr>
+    <div style="text-align: center">
+        <p style="font-family: Georgia"><b>Entenda mais:</b></p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/52pfRQawboA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+    <br>
+    <br>
+    <hr>
+    <p style="font-family: Georgia"><b>Referências:</b></p>
+    <ul type="square">
+        <li>Tecnoblog.net</li>
+        <li>NationalGeographiBrazil.com</li>
+        <li>Vrgestaoresiduos</li>
+        <li>Blog.trocafone</li>
+    </ul>
+    <br>
+    <hr>
+    <div style="text-align: center">
+    <p style="font-family: Georgia"><b>POLYANA HERNANDES</b></p>
+</div>
+    <hr>
+</body>
+</html>
